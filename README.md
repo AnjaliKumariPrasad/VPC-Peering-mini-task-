@@ -62,8 +62,8 @@ The goal of this project was to gain hands-on experience with:
 
 > Add your VPC Peering screenshot here
 
-![VPC Peering](img/connectoon-of-vpc-1-to-vpc-2.png)
-![VPC Peering](img/connectoon-of-vpc-2-to-vpc-1.png)
+![VPC Peering](img/connection-of-vpc-1-to-vpc-2.png)
+![VPC Peering](img/connection-of-vpc-2-to-vpc-1.png)
 
 ---
 
